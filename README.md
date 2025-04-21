@@ -1,8 +1,12 @@
-## 👋 Olá, eu sou a Julia!
+## 👋 Oi, eu sou a Julia!
 
 **Estudante de Desenvolvimento de Sistemas | Desenvolvedora Front-end | Entusiasta de Design Gráfico**
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="Texto Alternativo">
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <!--
 - 🔭 I’m currently working on ...
