@@ -1,4 +1,4 @@
-## 👋 Oi, eu sou a Julia!
+# `🐱 Oi, eu sou a Julia!`
 
 **Estudante de Desenvolvimento de Sistemas | Desenvolvedora Front-end | Entusiasta de Design Gráfico**
 
@@ -13,7 +13,7 @@
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-## 🛠 Ferramentas & Tecnologias
+## ⚙️ Ferramentas & Tecnologias
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -26,9 +26,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-
 ## 📫 Onde me Encontrar
 <a href="https://www.linkedin.com/in/franc0julia/" target="_blank">
   <img align="center" alt="linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </a>
-
